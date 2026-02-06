@@ -7,9 +7,9 @@ It allows an admin to **manage employees** and **track daily attendance** throug
 
 ## 🔗 Live Links
 
-- **Backend API**: https://hrms-lite-1-8p67.onrender.com  
-- **Swagger Documentation**: https://hrms-lite-1-8p67.onrender.com/docs  
-- **Frontend**: Runs locally / deployed separately
+- **Backend API**: https://demo-hrms-lite.onrender.com
+- **Swagger Documentation**: https://demo-hrms-lite.onrender.com/docs  
+- **Frontend**: https://zesty-travesseiro-ec79b3.netlify.app/
 
 ---
 
