@@ -11,7 +11,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",   # local dev
-        "https://your-frontend-url.vercel.app"  # production (optional)
+        "https://zesty-travesseiro-ec79b3.netlify.app"  # production
     ],
     allow_credentials=True,
     allow_methods=["*"],
